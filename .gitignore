@@ -11,6 +11,8 @@ UpgradeLog.XML
 *.dll
 *.dsp
 *.dsw
+*.plg
+*.opt
 *.exe
 *.exp
 *.lastbuildstate
